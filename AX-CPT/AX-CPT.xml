@@ -321,39 +321,39 @@
 					<Identifier>(0x207f55be, 0xb1d0ec29)</Identifier>
 					<TypeIdentifier>(0x007deef9, 0x2f3e95c6)</TypeIdentifier>
 					<Name>Duration</Name>
-					<DefaultValue>30</DefaultValue>
-					<Value>15</Value>
+					<DefaultValue>1200</DefaultValue>
+					<Value>1200</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
 					<Identifier>(0x5374bf96, 0x51152e71)</Identifier>
-					<TypeIdentifier>(0x007deef9, 0x2f3e95c6)</TypeIdentifier>
+					<TypeIdentifier>(0x512a166f, 0x5c3ef83f)</TypeIdentifier>
 					<Name>Up_Time</Name>
-					<DefaultValue>1</DefaultValue>
-					<Value>1</Value>
+					<DefaultValue>0.5</DefaultValue>
+					<Value>0.5</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
 					<Identifier>(0x02b59020, 0xc6ede9b9)</Identifier>
-					<TypeIdentifier>(0x007deef9, 0x2f3e95c6)</TypeIdentifier>
+					<TypeIdentifier>(0x512a166f, 0x5c3ef83f)</TypeIdentifier>
 					<Name>Between_Time</Name>
-					<DefaultValue>1</DefaultValue>
-					<Value>1</Value>
+					<DefaultValue>0.5</DefaultValue>
+					<Value>0.5</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
 					<Identifier>(0x9e3e6857, 0xbf4e8f99)</Identifier>
-					<TypeIdentifier>(0x007deef9, 0x2f3e95c6)</TypeIdentifier>
+					<TypeIdentifier>(0x512a166f, 0x5c3ef83f)</TypeIdentifier>
 					<Name>Padding_Time</Name>
-					<DefaultValue>1</DefaultValue>
-					<Value>1</Value>
+					<DefaultValue>0.2</DefaultValue>
+					<Value>0.2</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
 					<Identifier>(0x3834bff2, 0x9eb73e28)</Identifier>
 					<TypeIdentifier>(0x512a166f, 0x5c3ef83f)</TypeIdentifier>
 					<Name>PA</Name>
-					<DefaultValue>0.7</DefaultValue>
+					<DefaultValue>0.8</DefaultValue>
 					<Value>0.8</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
@@ -361,8 +361,8 @@
 					<Identifier>(0x546669ce, 0x830e9b6e)</Identifier>
 					<TypeIdentifier>(0x512a166f, 0x5c3ef83f)</TypeIdentifier>
 					<Name>PAX</Name>
-					<DefaultValue>0.7</DefaultValue>
-					<Value>0.7</Value>
+					<DefaultValue>0.75</DefaultValue>
+					<Value>0.75</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
